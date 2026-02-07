@@ -1,0 +1,9 @@
+[project]
+name = "uwiegand"
+version = "0.1.0"
+description = "A micropython library for using Wiegand RFID / NFC card readers on ESP32 devices."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pre-commit>=4.5.1",
+]
